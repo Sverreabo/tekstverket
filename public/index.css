@@ -1,0 +1,16 @@
+#piler {
+    font-size: 1.8rem;
+    display: flex;
+    flex-direction: column;
+}
+
+#piler>a {
+    margin-top: 1rem;
+    color: #00423e;
+    text-decoration: none;
+}
+
+#piler>:hover,
+#piler>:focus {
+    text-decoration: underline;
+}

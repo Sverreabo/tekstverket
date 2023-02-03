@@ -1,0 +1,64 @@
+:root {
+    --border-radius: 0.2rem;
+    --margins: 1rem 1rem 0 1rem;
+}
+
+html,
+body {
+    margin: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container {
+    max-width: 1200px;
+    padding-bottom: 1rem;
+    margin: auto;
+}
+
+h1 {
+    margin: 0;
+}
+
+header {
+    padding: 1rem;
+    margin: var(--margins);
+    background-color: #cce1dc;
+    border-radius: var(--border-radius);
+}
+
+#flex {
+    display: flex;
+}
+
+#flex>div {
+    margin: var(--margins);
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+#Anne-kvadratisk-liten {
+    margin: 0 1rem 0.2rem 0;
+    display: none;
+}
+
+@media screen and (max-width: 800px) {
+    #flex {
+        flex-direction: column;
+    }
+
+    #Anne-kvadratisk-stor {
+        display: none;
+    }
+
+    #Anne-kvadratisk-liten {
+        width: 55%;
+        float: left;
+        display: unset;
+    }
+}
