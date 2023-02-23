@@ -1,16 +1,34 @@
-#piler {
+:root {
+    --lenke-farge-mork: #00423e;
+}
+
+#store-lenker {
     font-size: 1.8rem;
     display: flex;
     flex-direction: column;
 }
 
-#piler>a {
-    margin-top: 1rem;
-    color: #00423e;
+#store-lenker>a {
+    margin-bottom: 1rem;
+}
+
+.morke-lenker>a {
+    color: var(--lenke-farge-mork);
     text-decoration: none;
 }
 
-#piler>:hover,
-#piler>:focus {
+.morke-lenker>:hover,
+.morke-lenker>:focus {
     text-decoration: underline;
+}
+
+#lenker-horisontal {
+    margin-bottom: 0.5rem;
+    display: flex;
+}
+
+#lenker-horisontal>a:not(:last-child) {
+    padding-right: 0.5rem;
+    border-right: 1px solid black;
+    margin-right: 0.5rem;
 }
