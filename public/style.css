@@ -52,11 +52,12 @@ header a:focus {
     text-decoration: underline;
 }
 
-.flex {
+.flex,
+.flex-responsive {
     display: flex;
 }
 
-.flex>div,
+.flex-responsive>div,
 .seksjon,
 header {
     margin: var(--margins);
@@ -80,8 +81,21 @@ img {
     display: none;
 }
 
+#lenker-horisontal {
+    margin: 0.5rem 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#lenker-horisontal>a:not(:last-child) {
+    margin: 0.1rem;
+    padding-right: 0.4rem;
+    border-right: 1px solid black;
+    margin-right: 0.4rem;
+}
+
 @media screen and (max-width: 800px) {
-    .flex {
+    .flex-responsive {
         flex-direction: column;
     }
 
