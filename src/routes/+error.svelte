@@ -3,8 +3,10 @@
 </svelte:head>
 
 <main>
-    <div class="container">
-        <h2>Fant ikke siden du lette etter</h2>
-        <a href="/">Gå til hjemmesiden</a>
+    <div class="container flex-responsive">
+        <div>
+            <h2>Fant ikke siden du lette etter</h2>
+            <a href="/">Gå til hjemmesiden</a>
+        </div>
     </div>
 </main>
