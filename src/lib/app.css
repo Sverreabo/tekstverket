@@ -57,7 +57,6 @@ header a:focus {
 }
 
 .flex-responsive>div,
-.seksjon,
 header {
     margin: var(--margins);
 }
