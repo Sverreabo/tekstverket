@@ -70,9 +70,17 @@ a:focus {
     color: rgb(120, 120, 255)
 }
 
-img {
+img,
+figure {
+    margin: 0;
     width: 100%;
     height: auto;
+    display: block;
+}
+
+figcaption {
+    font-style: italic;
+    color: rgb(50, 50, 50)
 }
 
 .bilde-liten {

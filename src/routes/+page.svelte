@@ -6,12 +6,15 @@
     <div class="container">
         <div class="flex-responsive">
             <div class="bilde-stor" style="flex: 40%">
-                <img
-                    src="/Anne kvadratisk bilde Foto Guri Pfeiffer.jpg"
-                    width="1632"
-                    height="1632"
-                    alt="Anne"
-                />
+                <figure>
+                    <img
+                        src="/Anne kvadratisk bilde Foto Guri Pfeiffer.jpg"
+                        width="1632"
+                        height="1632"
+                        alt="Anne"
+                    />
+                    <figcaption>Foto: Guri Pfeiffer</figcaption>
+                </figure>
             </div>
             <div style="flex: 60%">
                 <h2>Trenger du skrivehjelp?</h2>
@@ -21,12 +24,15 @@
                     søknader og klager
                 </h4>
                 <div class="bilde-liten" style="width: 55%;">
-                    <img
-                        src="/Anne kvadratisk bilde Foto Guri Pfeiffer.jpg"
-                        width="1632"
-                        height="1632"
-                        alt="Anne"
-                    />
+                    <figure>
+                        <img
+                            src="/Anne kvadratisk bilde Foto Guri Pfeiffer.jpg"
+                            width="1632"
+                            height="1632"
+                            alt="Anne"
+                        />
+                        <figcaption>Foto: Guri Pfeiffer</figcaption>
+                    </figure>
                 </div>
                 <p>
                     Med lang fartstid som formidler, forfatter, nettjournalist,
