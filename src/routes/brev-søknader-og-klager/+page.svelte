@@ -6,6 +6,14 @@
     <div class="container flex-responsive">
         <div>
             <h2>Brev, søknader og klager</h2>
+            <div style="width: 30%;" class="float-right">
+                <img
+                    src="/brev illustrasjon.webp"
+                    width="192"
+                    height="240"
+                    alt=""
+                />
+            </div>
             <p>
                 Som pårørende til en psykisk syk bror og en alvorlig skadet
                 sønn, har jeg har mange års erfaring med NAV, kommune- og

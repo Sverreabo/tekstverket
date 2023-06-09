@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Oversettelser og gjendiktinger</title>
+</svelte:head>
+
 <main>
     <div class="container flex-responsive">
         <div class="bilde-stor" style="flex: 40%;">
