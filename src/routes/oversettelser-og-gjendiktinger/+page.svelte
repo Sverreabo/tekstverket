@@ -4,12 +4,12 @@
 
 <main>
     <div class="container flex-responsive">
-        <div class="bilde-stor" style="flex: 40%;">
+        <div class="bilde-stor" style="flex: 30%;">
             <img src="/Skrivemaskin.jpg" width="612" height="612" alt="" />
         </div>
-        <div style="flex: 60%;">
+        <div style="flex: 70%;">
             <h2>Konsulenttjenester, oversettelser og gjendiktninger</h2>
-            <div class="bilde-liten">
+            <div class="bilde-liten float-right" style="width: 40%;">
                 <img src="/Skrivemaskin.jpg" width="612" height="612" alt="" />
             </div>
             <p>
