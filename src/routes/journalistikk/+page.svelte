@@ -25,6 +25,31 @@
                     >eksempler på artikler og annet</a
                 > jeg har skrevet.
             </p>
+            <p>
+                Jeg vil trekke frem noen her:<br />
+
+                <a href="https://www.nrk.no/ytring/de-elendige-1.15827883"
+                    ><i>De elendige</i></a
+                >
+                (Kronikk, NRK ytring)<br />
+
+                <a
+                    href="https://www.boktips.no/skjonnlitteratur/romaner/per-knutsen/"
+                    ><i
+                        >Per Knutsen. Om barns betingelsesløse kjærlighet til
+                        sine foreldre</i
+                    ></a
+                >
+                (Artikkel/essay)<br />
+
+                <a
+                    href="https://www.boktips.no/barneboker/barndommens-nattbord-intervju-med-brynjulf-jung-tjonn/"
+                    ><i
+                        >Barndommens nattbord: Intervju med Brynjulf Jung Tjønn</i
+                    ></a
+                >
+                (Intervju)
+            </p>
         </div>
     </div>
 </main>

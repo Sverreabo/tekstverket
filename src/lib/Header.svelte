@@ -6,8 +6,8 @@
             </div>
         </div>
         <nav id="lenker-horisontal">
-            <a href="">Taleskriving</a>
-            <a href="">Festsanger og -taler</a>
+            <a href="/taleskriving/">Taleskriving</a>
+            <a href="/festsanger-taler/">Festsanger og -taler</a>
             <a href="/journalistikk/">Journalistikk</a>
             <a href="/oversettelser-og-gjendiktinger/"
                 >Oversettelser og gjendiktinger</a
