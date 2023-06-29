@@ -54,6 +54,41 @@
                     sjangere - med stø språkføring. Litteratur, kultur og helse
                     er temaer jeg har et spesielt nært forhold til.
                 </p>
+                <p>
+                    Her er noen anmeldelser av <i>Barske barn-serien</i>:<br />
+                    <a
+                        href="https://www.nrk.no/anmeldelser/anmeldelse_-_123-for-barske-barn_-av-anne-ostgaard-og-egil-nyhus-1.15080654"
+                        >NRK: <i>Tull med tall</i>
+                    </a><br />
+                    <a
+                        href="https://www.boktips.no/barneboker/barn-4-til-6-ar/barske-barn-serien/"
+                        >Boktips: <i
+                            >Ny bok i den tøysete og superpopulære serien</i
+                        ></a
+                    ><br />
+                    <a
+                        href="https://www.barnebokkritikk.no/moro-vers-for-en-ny-tid/"
+                        >Barnebokkritikk: <i>Moro-vers for en ny tid</i>
+                    </a>
+                </p>
+                <p>
+                    Jeg har flere ganger blitt intervjuet om boken <i
+                        >Dødsgikt</i
+                    >
+                    og døden som tema:<br />
+                    <a
+                        href="https://www.boktips.no/skjonnlitteratur/lyrikk/anne-ostgaard-dodsdikt-dikt-om-doden-antologi-intervju/"
+                        >Boktips: <i>Samler mørke og humor i «Dødsdikt»</i></a
+                    ><br />
+                    <a
+                        href="https://www.ao.no/vi-ma-vage-a-snakke-om-doden/s/5-128-57121"
+                        >Avisa Oslo: <i>– Vi må våge å snakke om døden</i></a
+                    ><br />
+                    <a
+                        href="https://www.vi.no/livet/jeg-er-ikke-redd-for-sterke-folelser/77882897"
+                        >Vi: <i>- Jeg er ikke redd for sterke følelser</i></a
+                    >
+                </p>
             </div>
             <div style="flex: 30%" class="bilde-stor">
                 <img
