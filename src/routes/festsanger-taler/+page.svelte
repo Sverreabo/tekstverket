@@ -6,6 +6,9 @@
     <div class="container flex-responsive">
         <div>
             <h2>Festsanger og -taler</h2>
+            <div style="width: 40%;" class="float-right">
+                <img src="/brudepar.jpg" width="612" height="408" alt="" />
+            </div>
             <p>
                 Bryllup, konfirmasjon, dåp- og navnedag eller jubileer? Det
                 finnes mange anledninger der det kreves eller passer å holde en

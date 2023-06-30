@@ -6,6 +6,9 @@
     <div class="container flex-responsive">
         <div>
             <h2>Taleskriving</h2>
+            <div style="width: 40%;" class="float-right">
+                <img src="/tale.jpg" width="612" height="408" alt="" />
+            </div>
             <p>
                 Skal du holde tale i en mer formell sammenheng? Kanskje med et
                 faglig, samfunnsengasjert eller politisk innhold? Kanskje med et
