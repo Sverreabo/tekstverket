@@ -6,11 +6,11 @@
     <div class="container flex-responsive">
         <div>
             <h2>Brev, søknader og klager</h2>
-            <div style="width: 30%;" class="float-right">
+            <div style="width: 40%;" class="float-right">
                 <img
-                    src="/brev illustrasjon.webp"
-                    width="192"
-                    height="240"
+                    src="/brev illustrasjon.jpg"
+                    width="600"
+                    height="399"
                     alt=""
                 />
             </div>
