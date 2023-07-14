@@ -13,7 +13,7 @@
                     >anneostgaard@gmail.com</a
                 ><br />
                 Mobil: 971 64 649<br />
-                Tekstverket.no
+                <a href="https://tekstverket.no">tekstverket.no</a>
             </p>
         </div>
     </div>

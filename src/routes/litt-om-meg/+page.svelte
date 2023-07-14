@@ -8,12 +8,15 @@
             <div>
                 <h2>Litt om meg - frilanser med tekst som spesialfelt</h2>
                 <div style="width: 40%;" class="float-right">
-                    <img
-                        src="/Anne stolpefoto.jpg"
-                        width="1312"
-                        height="1971"
-                        alt=""
-                    />
+                    <figure>
+                        <img
+                            src="/Anne stolpefoto.jpg"
+                            width="1312"
+                            height="1971"
+                            alt=""
+                        />
+                        <figcaption>Foto: Guri Pfeiffer</figcaption>
+                    </figure>
                 </div>
                 <p>
                     Jeg er forfatter/tekstforfatter, journalist og skribent med
