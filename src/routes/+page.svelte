@@ -1,5 +1,15 @@
+<script>
+    const description =
+        "Trenger du skrivehjelp? Jeg tilbyr tekstarbeid i ulike sjangere: Fra taler og festsanger til pressemeldinger, artikler, brev og søknader knyttet til pasientrettigheter";
+</script>
+
 <svelte:head>
     <title>Tekstverket</title>
+    <meta name="author" content="Anne Østgaard" />
+    <meta property="og:title" content="Tekstverket" />
+    <meta property="og:type" content="website" />
+    <meta name="description" content={description} />
+    <meta property="og:description" content={description} />
 </svelte:head>
 
 <main>
@@ -11,7 +21,7 @@
                         src="/Anne kvadratisk bilde Foto Guri Pfeiffer.jpg"
                         width="1632"
                         height="1632"
-                        alt="Anne"
+                        alt="Anne Østgaard"
                     />
                     <figcaption>Foto: Guri Pfeiffer</figcaption>
                 </figure>
@@ -29,7 +39,7 @@
                             src="/Anne kvadratisk bilde Foto Guri Pfeiffer.jpg"
                             width="1632"
                             height="1632"
-                            alt="Anne"
+                            alt="Anne Østgaard"
                         />
                         <figcaption>Foto: Guri Pfeiffer</figcaption>
                     </figure>
