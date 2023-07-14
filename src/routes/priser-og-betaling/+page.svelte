@@ -12,7 +12,8 @@
             <p>
                 Timepris: Kr 750-1000<br />
                 Fastpris kan også avtales <br />
-                Betaling kan gjøres via vipps: …… Eller nettbank, til kto.nr.:
+                Betaling kan gjøres via Vipps.<br />
+                Vippskode: 821176
             </p>
         </div>
         <div class="bilde-stor" style="flex: 40%;">

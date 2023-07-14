@@ -12,7 +12,8 @@
                 <a href="mailto:anneostgaard@gmail.com"
                     >anneostgaard@gmail.com</a
                 ><br />
-                Mobil: 971 64 649
+                Mobil: 971 64 649<br />
+                Tekstverket.no
             </p>
         </div>
     </div>
